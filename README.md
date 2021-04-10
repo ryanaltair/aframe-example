@@ -1,6 +1,6 @@
 # aframe-example
 a better starter for A-frame based project
 
-# start with live-server
-`npm i live-server`
+# start with five-server
+`npm i five-server`
 `npm run live`
