@@ -1,0 +1,21 @@
+{
+  "name": "aframe-example",
+  "version": "0.0.1",
+  "description": "a better starter for A-frame based project",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live": "live-server web"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/aframe-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/aframe-example/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/aframe-example#readme"
+}
